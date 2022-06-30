@@ -1,1 +1,34 @@
+*****************Spatial Files ****************************
+Shape  Files
+--> Main
+	.shp
+	.shx
+	.dbf
+	.prj
+--> Others
+	.sbn /.sbx
+	.fbn /.fbx
+	.ain /.aih
+	.ixs
+	.mxs
+	.atx
+	.shp.xml
+	.cpg
+	.qix
+	
+Map Info Tables
+	.Tab
+	.DAT
+	.Map
+	.id
+	.MID/.MIF
+	
+KML Files
+	.kml
+	
+GeoJSON Files
+	.geojson
+
+
+
 
